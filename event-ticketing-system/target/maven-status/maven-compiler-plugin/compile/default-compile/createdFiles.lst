@@ -1,0 +1,3 @@
+com\ticketmanagement\event_ticketing_system\models\Configuration.class
+com\ticketmanagement\event_ticketing_system\services\TicketPoolServices.class
+com\ticketmanagement\event_ticketing_system\models\TicketPool.class
